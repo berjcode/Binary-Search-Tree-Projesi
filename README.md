@@ -7,11 +7,9 @@ Binary Search Tree Projesi
 
 *           5   |   8
 
-*        4    6 |  7   9
+*        3    6 |  7   9
 
-*       3       | 
+*      0      4 | 
 
+*             1
 
-*     1         |
-
-*     0         |
